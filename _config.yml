@@ -6,12 +6,30 @@ description: 这是一个无聊的站点~
 avatarTitle: 随笔感悟
 # 头像里面的描述
 avatarDesc: 点点/滴滴
-url: "#"
+url: "wiki.aycw.cn"
 
 # Comment
 comment:
     # disqus: leopard
     duoshuo: leopard
+
+# Social
+social:
+    #weibo: 5366874726
+    github: 15107355
+    # twitter:
+    mail: 15107355@qq.com
+
+# 百度统计
+# 使用博客模板请去掉或者更换 id
+baidu:
+    id: 51d0d1b303cfa25bb5714a9d197913a9
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+ga:
+    id: UA-84134159-3
+    host: auto
 
 
 
