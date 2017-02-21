@@ -183,10 +183,10 @@ ul {
   list-style-type: disc; }
 
 code {
-  color: #000000;
-  padding: .1em .4em;
+  color: #006699;
+  padding: .2em;
   background: #f1f1f1;
-  border: 1px solid #ccc;
+  border: 0px solid #ccc;
   border-radius: 4px;
   font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   font-size: 1.0em;
