@@ -184,13 +184,13 @@ ul {
 
 code {
   color: #000000;
-  padding: .1em .4em;
-  background: #e8f2fb;
-  border: 1px solid #c9e1f6;
-  border-radius: 3px;
+  padding: .2em .4em;
+  background: #f1f1f1;
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
   font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   font-size: 1.0em;
-  vertical-align: bottom;
+  vertical-align: middle;
   word-wrap: break-word; }
 
 pre {
