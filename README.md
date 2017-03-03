@@ -9,3 +9,5 @@
 6. 之后修改主题内容，符合自己的情况
 7. 不断的Commit修改的内容，之后在浏览器中输入域名进行查看！
 8. 建立Jekyll博客就这么简单，无需创建本地环境，一切都由Github搞定
+
+可以用Jekyll Writer编写Jekyll，Jekyll Writer下载地址：http://jekyllwriter.com/
